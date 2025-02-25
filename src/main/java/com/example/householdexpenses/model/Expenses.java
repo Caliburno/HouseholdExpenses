@@ -1,7 +1,6 @@
 package com.example.householdexpenses.model;
 
 import java.time.LocalDate;
-import java.util.Locale;
 
 public class Expenses {
     private LocalDate date;
